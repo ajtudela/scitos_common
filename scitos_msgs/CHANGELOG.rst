@@ -1,6 +1,10 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package scitos_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+0.1.15 (2021-06-15)
+-------------------
+* Added support for MotorControllerHG4 firmware > 1.7.0
+* Contributors: Alberto Tudela
 
 0.1.12 (2017-06-28)
 -------------------
